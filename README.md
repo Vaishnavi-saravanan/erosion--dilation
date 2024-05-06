@@ -14,7 +14,10 @@ Create the structuring element
 ### Step4:
 Erode the image
 ## Program:
-
+```
+DEVELOPED BY : VAISHNAVI S
+REG NO       : 212222230165
+```
 ``` Python
 # Import the necessary packages
 
